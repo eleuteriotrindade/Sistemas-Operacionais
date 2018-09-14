@@ -1,0 +1,9 @@
+BASH : O bash apresenta recursos e características de uma linguagem de programação alto nível.
+
+CSH : A sintaxe foi modelada segundo a linguagem de programação C.O C shell tem a estrutura típica de um Unix shell: cada linha da entrada é interpretada como um comando separado a ser executado, com a barra invertida colocando onde novas linhas de entrada são necessárias.
+
+KSH : é um superconjunto do sh, isto é, possui todas as facilidades do sh e a elas agregou muitas outras.
+
+ZSH : Zsh é um Bourne shell estendido com um grande número de melhorias, incluindo alguns recursos do Bash, ksh e tcsh.
+
+SH : Introduziu o resto dos recursos básicos considerados comuns a todos os shells do Unix, incluindo, substituição de comando, mais variáveis genéricas e mais estruturas de controle embutidas extensivas.
